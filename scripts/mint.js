@@ -107,8 +107,8 @@ async function main() {
   } else {
     console.error(
       "Add NFT_CONTRACT_ADDRESS or FACTORY_CONTRACT_ADDRESS to the environment variables"
-    );
-  }
+    ); 
+  } 
 }
 
 main();
